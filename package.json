@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://xperience9.github.io/my-portfolio/",
+  "homepage": "https://xperience9.github.io/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
