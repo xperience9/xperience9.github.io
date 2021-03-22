@@ -1,3 +1,1 @@
-portfolio of projects
-
-permalink: /index.html
+# xperience9.github.io
