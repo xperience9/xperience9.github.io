@@ -4,12 +4,13 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -b master -d build",
     "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://xperience9.github.io/"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
